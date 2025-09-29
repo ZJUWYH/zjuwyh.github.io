@@ -4,12 +4,34 @@ layout: homepage
 
 ## About Me
 
-I am PhD student in Computer Science, Stony Brook University, USA. Supervised by Prof. Ting Wang. Research interests are LLM safety alignment & trust, LLM post-training, and RAG security.
-Available for Summer 2026 (May to Aug) internship.
+I am a Ph.D. student at Stony Brook University (SBU), supervised by [Prof. Ting Wang](https://alps-lab.github.io/). My research interests include LLM post-training, safety alignment, and RAG security. \\
+Before this, I received my Master’s degree from Shanghai Jiao Tong University (SJTU), advised by Prof. Di Wang, and my Bachelor’s degree from Zhejiang University (ZJU).
 
-## Research Interests
+<!-- ## Research Interests
 
-LLM Safety Alignment & Trust
+LLM Safety Alignment & Trust -->
+
+
+## Selected Publications ([Full List](https://scholar.google.com/citations?user=eJgbw-oAAAAJ&hl=en))
+
+- [Self-Destructive Language Model](#)  
+  **Yuhui Wang**, Rongyi Zhu, Ting Wang
+
+- [GraphRAG under Fire](#)  
+  Jiacheng Liang†, **Yuhui Wang†**, Changjiang Li, Rongyi Zhu, Tanqiu Jiang, Neil Gong, Ting Wang  
+  *IEEE Symposium on Security and Privacy (IEEE S&P), 2026*  
+
+<!-- - [RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction](#)  
+  Tanqiu Jiang, Zian Wang, Jiacheng Liang, Changjiang Li, **Yuhui Wang**, Ting Wang  
+  *International Conference on Learning Representations (ICLR), 2025*   -->
+
+- [Deep Learning-Based Sensor Selection for Multimodal Recognition and Prognostics Under Time-Varying Operating Conditions](#)  
+  **Yuhui Wang**, Andi Wang, Di Wang, Dong Wang  
+  *IEEE Transactions on Automation Science and Engineering (IEEE TASE), 2025*  
+
+<!-- - [A Latent Variable-based Multitask Learning Approach for Degradation Modeling of Machines with Dependency and Heterogeneity](#)  
+  Di Wang, **Yuhui Wang**, Xiaochen Xian
+  *IEEE Transactions on Instrumentation and Measurement (IEEE TIM), 2024* -->
 
 <!-- ## News
 
@@ -18,6 +40,6 @@ LLM Safety Alignment & Trust
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/services.md %}
