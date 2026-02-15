@@ -14,8 +14,13 @@ LLM Safety Alignment & Trust -->
 
 ## Selected Publications ([Full List](https://scholar.google.com/citations?user=eJgbw-oAAAAJ&hl=en))
 
-- [Self-Destructive Language Model](#)  
-  **Yuhui Wang**, Rongyi Zhu, Ting Wang
+- [Reasoning or Retrieval? A Study of Answer Attribution on Large Reasoning Models](https://openreview.net/pdf?id=DfxkLdy2Cd) \
+  **Yuhui Wang**, Changjiang Li, Guangke Chen, Jiacheng Liang, Ting Wang  
+  *International Conference on Learning Representations (ICLR), 2026*
+
+- [Self-Destructive Language Model](https://openreview.net/pdf?id=r5EJVpgR8o)  
+  **Yuhui Wang**, Rongyi Zhu, Ting Wang  
+  *International Conference on Learning Representations (ICLR), 2026*
 
 - [GraphRAG under Fire](#)  
   Jiacheng Liang†, **Yuhui Wang†**, Changjiang Li, Rongyi Zhu, Tanqiu Jiang, Neil Gong, Ting Wang  
