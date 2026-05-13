@@ -4,8 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Stony Brook University (SBU), supervised by [Prof. Ting Wang](https://alps-lab.github.io/). My research interests include LLM post-training, safety alignment, and RAG security. \\
-Before this, I received my Master’s degree from Shanghai Jiao Tong University (SJTU), advised by Prof. Di Wang, and my Bachelor’s degree from Zhejiang University (ZJU).
+I am a Ph.D. candidate at Stony Brook University (SBU), supervised by [Prof. Ting Wang](https://alps-lab.github.io/). My research interests lie in empirical LLM/Agent safety and alignment, with work spanning jailbreak defenses, adaptive red-teaming, and agentic RL. \\
+Before this, I received my Master’s degree from Shanghai Jiao Tong University (SJTU), advised by [Prof. Di Wang](https://me.sjtu.edu.cn/teacher_directory1/wangdi), and my Bachelor’s degree from Zhejiang University (ZJU).
 
 <!-- ## Research Interests
 
@@ -13,6 +13,9 @@ LLM Safety Alignment & Trust -->
 
 
 ## Selected Publications ([Full List](https://scholar.google.com/citations?user=eJgbw-oAAAAJ&hl=en))
+
+- [MAGE: Safeguarding LLM Agents against Long-Horizon Threats via Shadow Memory](https://arxiv.org/pdf/2605.03228) \
+  **Yuhui Wang**, Tanqiu Jiang, Jiacheng Liang, Charles Fleming, Ting Wang
 
 - [Reasoning or Retrieval? A Study of Answer Attribution on Large Reasoning Models](https://openreview.net/pdf?id=DfxkLdy2Cd) \
   **Yuhui Wang**, Changjiang Li, Guangke Chen, Jiacheng Liang, Ting Wang  
